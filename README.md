@@ -32,3 +32,8 @@ Opis powinien być maksymalnie szczegółowy (na ile jest to możliwe jeszcze pr
 <li>wymagania niefunkcjonalne (wymagana szybkość przetwarzania, rozdzielczość, jakość klasyfikacji)</li>
 <li>proponowany flow chart systemu (fazy przetwarzania)</li>
 </ul>
+
+# Informacje
+<ul>
+<li>https://www.nbp.pl/home.aspx?f=/banknoty_i_monety/banknoty_obiegowe/wszystkie_banknoty.html</li>
+</ul>
