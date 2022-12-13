@@ -1,11 +1,13 @@
 # PSIO_money_authenticator
 
 # Ogólna tematyka projektu - przetwarzanie wideo:
-system śledzenia (osoby lub części ciała, przedmioty);
-system monitoringu (budynki, parkingi, drogi);
-system naprowadzania / nawigacji (pieszej, rowerowej, samochodowej)
-system wspomagania gracza podczas gry toczącej się w rzeczywistym świecie (gry sterowane gestami, Augmented reality)
-Inspiracje: https://www.computervision.zone/projects/  
+<ul>
+<li>system śledzenia (osoby lub części ciała, przedmioty)</li>
+<li>system monitoringu (budynki, parkingi, drogi)</li>
+<li>system naprowadzania / nawigacji (pieszej, rowerowej, samochodowej)</li>
+<li>system wspomagania gracza podczas gry toczącej się w rzeczywistym świecie (gry sterowane gestami, Augmented reality)</li>
+<li>Inspiracje: https://www.computervision.zone/projects/</li>  
+</ul>
 
 # Założenia
 <ul>
@@ -17,8 +19,10 @@ Inspiracje: https://www.computervision.zone/projects/
 <li>Skoncentrujemy się o ile to możliwe na algorytmach dostępnych w bibliotekach OpenCV, sk-image, sk-learn bez korzystania z zewnętrznych bibliotek sztucznej inteligecji</li>
 </ul>  
 
+<b>
 Proszę o przygotowanie w ciągu dwóch tygodni i załączenie na Teams dokumentu opisującego propozycję projektu.
 Opis powinien być maksymalnie szczegółowy (na ile jest to możliwe jeszcze przed jego wykonaniem).
+</b>
 
 # Treść opisu propozycji
 <ul>
