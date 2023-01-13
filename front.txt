@@ -1,0 +1,17 @@
+Okno 1:
+Dwa przyciski
+-film
+-wrzucenie mp4 - > Okno 3
+
+Okno 2:
+Info o przygotowanie banknotu do nagrania
+Zaczyna nagrywać banknot.
+Po nagraniu informacja, że nagrano.
+Przycisk OK(wybór najlepszej klatki, sieć neuronowa) - > Okno 3
+
+Okno 3:
+Splashscreen
+Wyświetlenie tak dla picu nazwy taskow
+
+Okno 4:
+Wyniki z dokładnością, czy fałszywe czy nie, przycisk do ekranu początkowego, zamknij i elo.
