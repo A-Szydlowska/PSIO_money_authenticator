@@ -8,7 +8,7 @@ cursor.execute('''
     CREATE TABLE IF NOT EXISTS money (
         id INTEGER PRIMARY KEY,
         file_name TEXT,
-        result ?,
+        result REAL,
         best_frame BLOB
     )
 ''')
